@@ -15,6 +15,7 @@ Detailed content of the repository :
 04_Cascade_parameterization : Parameterizes the inventories in accordance to equations shown in the paper and values from the supplementary information.
 
 Inventory tables : Provides access, in simplified tables, to the processes modelled and quantities for the cascade system and virgin materials (assuming Q = 1 and d =1). 
+
 Inventory_model/Modified attributional datasets/Modified consequential datasets : The foreground and the modified background datasets are available in this ready to use format for the python script. 
 
 Notes :
