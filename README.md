@@ -20,7 +20,7 @@ Inventory_model/Modified attributional datasets/Modified consequential datasets 
 
 Notes :
 
-The content of this repository isn't guaranteed to work right-away. Some scripts require to be modified by the user to enter his/her own file path. The ecoinvent 3.5 databases (cut-off/apos/consequential) are NOT included. It is the user's responsibility to check that everything works correctly. A working version of Brightway2 (or any of the other libraries called in the scripts) are required. On a final note, I am not a professional programmer. The scripts presented could be made more "pythonic" and better organized, but it is left to potential users to optimize their own scripts.
+The content of this repository isn't guaranteed to work right-away. The scripts and spreadsheets presented are edited versions of the case study. Some scripts require to be modified by the user to enter his/her own file path. The ecoinvent 3.5 databases (cut-off/apos/consequential) are NOT included. It is the user's responsibility to check that everything works correctly. A working version of Brightway2 (or any of the other libraries called in the scripts) are required. On a final note, I am not a professional programmer. The scripts presented could be made more "pythonic" and better organized, but it is left to potential users to optimize their own scripts.
 
 
 
