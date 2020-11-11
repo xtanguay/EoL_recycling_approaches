@@ -211,7 +211,7 @@ def Recycling_allocation(Rule,LCI,Db_name,*args) :
             print('')
             
         else : 
-            print('Wrong amount of arguments was used. To use the Open loop S2017 mehtod, please enter 5 arguments with the following synthax :\n',
+            print('Wrong amount of arguments was used. To use the Open loop S2017 method, please enter 5 arguments with the following synthax :\n',
             '"Recycling_allocation(Allocation_Rule , LCI , Databse_name , RRE , n )"')  
             
 # OPEN LOOP - Proposed version (1st LCI) :
@@ -1051,7 +1051,7 @@ def Recycling_allocation(Rule,LCI,Db_name,*args) :
 #  If none of the previous were selected : 
 #------------------------------------------------------------------------------
     else : 
-       print('Invalid input. Pick one of the following allocation rule as string inputs : "Cut off" , "Open loop" '
+       print('Invalid input. Pick one of the following allocation rule as string inputs : "Cut off" , "Open loop", Open loop S2017 '
              ' , "Open loop VL S2017" or "Open loop VL". Alternatively,'
              'use the Consequential substitution parameterization with : "Consequential cascading".')
 
